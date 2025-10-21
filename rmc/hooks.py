@@ -242,3 +242,11 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+modules = {
+    "RMC": {
+        "color": "#1abc9c",
+        "icon": "octicon octicon-file-directory",
+        "type": "module",
+        "label": "RMC"
+    }
+}
