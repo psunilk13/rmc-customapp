@@ -247,6 +247,6 @@ modules = {
         "color": "#1abc9c",
         "icon": "octicon octicon-file-directory",
         "type": "module",
-        "label": "RMC"
+        "label": "Stock"
     }
 }
