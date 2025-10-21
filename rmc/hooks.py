@@ -3,7 +3,7 @@ app_title = "RMC"
 app_publisher = "sunil"
 app_description = "rmc module"
 app_email = "sunil965277@gmail.com"
-app_license = "mit"
+app_license = "MIT"
 
 # Apps
 # ------------------
